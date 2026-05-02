@@ -137,7 +137,7 @@ nav ul li a:hover {
 /* Hero Section (Animation from Test 3 & Test 2 modified) */
 .hero-section {
     height: 90vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('../images/project_one.png');
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('./images/project_one.png');
     background-size: cover;
     background-position: center;
     display: flex;
